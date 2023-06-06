@@ -33,4 +33,3 @@ elif a == len(list_1):
 else:
     res = list_1[a-1] + list_1[a-2] + list_1[a]
 print(res, 'ягод')
-
